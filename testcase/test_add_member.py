@@ -26,3 +26,4 @@ class TestAddMember:
         self.main.goto_add_member_page().add_member()
         # assert  "" in  mem_list
         print("直接指向主分支")
+        print("pull取一下")

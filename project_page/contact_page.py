@@ -1,7 +1,3 @@
-from pandas.io.formats.format import return_docstring
-
-from project_page.main import MainPageObject
-
 
 class ContactPage:
     def goto_add_member_page(self):

@@ -24,4 +24,5 @@ class TestAddMember:
         # 获取到通讯录的成员列表
         # 断言实际结果与预期结果
         self.main.goto_add_member_page().add_member()
+        print('再次提交')
         # assert  "" in  mem_list

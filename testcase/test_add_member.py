@@ -25,4 +25,4 @@ class TestAddMember:
         # 断言实际结果与预期结果
         self.main.goto_add_member_page().add_member()
         # assert  "" in  mem_list
-        print("http://work.weixin.qq.com/wework_admin/frame")
+        print("直接指向主分支")
